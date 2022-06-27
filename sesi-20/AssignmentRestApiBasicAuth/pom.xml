@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.belajar.spring</groupId>
-	<artifactId>AssignmentRestApi</artifactId>
+	<artifactId>AssignmentRestApiBasicAuth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>AssignmentRestApi</name>
+	<name>AssignmentRestApiBasicAuth</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>

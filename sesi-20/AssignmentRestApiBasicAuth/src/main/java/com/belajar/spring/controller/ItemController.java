@@ -19,7 +19,7 @@ import com.belajar.spring.entity.Item;
 import com.belajar.spring.service.ItemService;
 
 @RestController
-@RequestMapping("/items")
+@RequestMapping("/api/items")
 public class ItemController {
 
 	@Autowired
