@@ -38,6 +38,7 @@ Pada project kedua membuat aplikasi yang dideploy ke enviroment cloud milik Hero
 
 Heroku adalah cloud platform yang mendukung bahasa pemrograman java dan banyak yang lainnya.
 
+Panduan aplikasi:
 1. Aplikasi dapat diakses melalui link:
 
 	https://hello-spring-java-sag.herokuapp.com/api/welcome/index
